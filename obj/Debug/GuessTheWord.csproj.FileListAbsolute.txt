@@ -1,0 +1,6 @@
+C:\Users\Dell XPS\source\repos\exercises\GuessTheWord\bin\Debug\GuessTheWord.exe.config
+C:\Users\Dell XPS\source\repos\exercises\GuessTheWord\bin\Debug\GuessTheWord.exe
+C:\Users\Dell XPS\source\repos\exercises\GuessTheWord\bin\Debug\GuessTheWord.pdb
+C:\Users\Dell XPS\source\repos\exercises\GuessTheWord\obj\Debug\GuessTheWord.csprojAssemblyReference.cache
+C:\Users\Dell XPS\source\repos\exercises\GuessTheWord\obj\Debug\GuessTheWord.exe
+C:\Users\Dell XPS\source\repos\exercises\GuessTheWord\obj\Debug\GuessTheWord.pdb
